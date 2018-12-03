@@ -12,7 +12,7 @@ Etc.
 Please submit ideas in issues or code/content in pull requests
 
 ## Docs
-[Wiki](/wiki)
+[Wiki](https://github.com/CryptoKittiesCity/KittyVer.se/wiki)
 
 ## License
 
