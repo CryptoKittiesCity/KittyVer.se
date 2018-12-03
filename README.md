@@ -12,8 +12,7 @@ Etc.
 Please submit ideas in issues or code/content in pull requests
 
 ## Docs
-[Wiki](wiki)
-[Setup](setup)
+[Wiki](/wiki)
 
 ## License
 
