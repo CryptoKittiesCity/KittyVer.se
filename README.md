@@ -9,7 +9,8 @@ Open-source RPG interface to the CryptoKitties platform
 
 ## Roadmap
 
-1. [ALPHA](https://github.com/CryptoKittiesCity/KittyVer.se/projects/1)
+* [ALPHA](https://github.com/CryptoKittiesCity/KittyVer.se/projects/1)
+* [Issues](https://github.com/CryptoKittiesCity/KittyVer.se/issues)
 
 ## Docs
 
