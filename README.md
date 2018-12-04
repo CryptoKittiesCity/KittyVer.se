@@ -18,4 +18,4 @@ Open-source RPG interface to the CryptoKitties platform
 
 ## License
 
-* [MIT](LICENSE.md)
+* [MIT](LICENSE)
