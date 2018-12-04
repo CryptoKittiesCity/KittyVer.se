@@ -1,7 +1,15 @@
 # KittyVer.se
 Open-source RPG interface to the CryptoKitties platform
 
-Please submit ideas in issues or code/content in pull requests
+## Contribute
+
+* [Ideas](https://github.com/CryptoKittiesCity/KittyVer.se/issues/new?template=feature_request.md)
+* [Bugs](https://github.com/CryptoKittiesCity/KittyVer.se/issues/new?template=bug_report.md)
+* [Code/Content](https://github.com/CryptoKittiesCity/KittyVer.se/pulls)
+
+## Roadmap
+
+1. [ALPHA](https://github.com/CryptoKittiesCity/KittyVer.se/projects/1)
 
 ## Docs
 
