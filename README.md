@@ -13,8 +13,8 @@ Open-source RPG interface to the CryptoKitties platform
 
 ## Docs
 
-[Wiki](https://github.com/CryptoKittiesCity/KittyVer.se/wiki)
+* [Wiki](https://github.com/CryptoKittiesCity/KittyVer.se/wiki)
 
 ## License
 
-[MIT](LICENSE.md)
+* [MIT](LICENSE.md)
