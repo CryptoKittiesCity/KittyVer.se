@@ -16,6 +16,6 @@
   "author": "CryptoKindle",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^3.0.10"
+    "electron": "^11.5.0"
   }
 }
